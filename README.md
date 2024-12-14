@@ -1,5 +1,5 @@
 # 💫 Hello world!
-🔭 My name is Sisu<br>👯 I'm a full-stack developer, focused on blockchain coding<br>🤝 I live in Denmark<br>🌱 Feel free to explore my ideas!<br>💬 I'm reposting everything I had, because lost my og accounts. I'm reosting everything I had because lost my og accounts. I've talked about it on my x profile.<br>
+🔭 My name is Sisu<br>👯 I'm a full-stack developer, focused on blockchain coding<br>🤝 I live in Denmark<br>🌱 Feel free to explore my ideas!<br>💬 Currently reposting everything I had, because lost my og accounts. I'm reosting everything I had because lost my og accounts. I've talked about it on my x profile.<br>
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sisu_dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sisudev)
 
